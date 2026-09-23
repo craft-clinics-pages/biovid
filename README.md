@@ -11,6 +11,13 @@ Landing page estática para BIOVID Regenerador Celular.
 
 El CTA usa `mailto:contacto@biovid.ec` como contacto provisional porque el brief no incluía teléfono, WhatsApp ni correo comercial. Cambiar ese `href` en `index.html` antes de campaña si el cliente entrega el canal definitivo.
 
+Los retratos de la sección de bienestar provienen de Unsplash y se descargaron localmente para evitar dependencias de carga durante el deploy:
+
+- `media/stock/persona-1.jpg` — `images.unsplash.com/photo-1494790108377-be9c29b29330`
+- `media/stock/persona-2.jpg` — `images.unsplash.com/photo-1500648767791-00dcc994a43e`
+- `media/stock/persona-3.jpg` — `images.unsplash.com/photo-1504593811423-6dd665756598`
+
+La sección usa copy editorial y no presenta las imágenes como testimonios de clientes.
 ## Medios
 
 Los medios entregados por el cliente están en `media/`. La imagen de referencia se conserva como `referencia-visual.jpg` y no se carga en la página pública.

@@ -9,7 +9,7 @@ Landing page estática para BIOVID Regenerador Celular.
 
 ## Configuración de contacto
 
-El CTA usa `mailto:contacto@biovid.ec` como contacto provisional porque el brief no incluía teléfono, WhatsApp ni correo comercial. Cambiar ese `href` en `index.html` antes de campaña si el cliente entrega el canal definitivo.
+Todos los botones comerciales usan WhatsApp: `https://wa.me/593967129353` con el mensaje prellenado `Hola quiero más información de Biovid`.
 
 Los retratos de la sección de bienestar provienen de Unsplash y se descargaron localmente para evitar dependencias de carga durante el deploy:
 
